@@ -1,0 +1,2 @@
+# Brimborium.AngularCore
+PoC
